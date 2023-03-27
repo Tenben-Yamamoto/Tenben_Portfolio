@@ -5,7 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/Material/body_001_mat.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/Material/face_001_mat.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/Material/body_002_mat.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/Material/cloak_001_mat.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/Material/hair_001_mat.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/Material/weapons_mat.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/Texture/body_001_color.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/Texture/body_002_color.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/Texture/cloak_001_color.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/Texture/face_001_color.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/Texture/hair_001_color.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/Texture/weapons_color.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/men_PhysicsAsset.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/men.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/02/RP6SBGD7E6V18DUTAKX5EC.uasset",
+				"D:/001_Yamamoto/Tenben_PortFolio/Tenben_Project/Content/Tenben/Character/men_Skeleton.uasset"
 			]
 		}
 	]
